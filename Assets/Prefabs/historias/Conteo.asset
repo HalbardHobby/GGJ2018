@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e79ac9f26b19af5489eba7f97d6f2dc8, type: 3}
+  m_Name: Conteo
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: 1d7811c46f332644eb12fc401ceb0ae8, type: 3}
+  transcription: "Este es un conteo que no espera la llegada a cero para una reacci\xF3n
+    efusiva, sus n\xFAmeros aumentan semanalmente y poca gente lleva la cuenta, solo
+    los que cubren sus rostros para no hacer parte de ella entienden el peligro que
+    les lleva a hablar. Los dem\xE1s prefieren estar silenciosos con indiferencia."
+  url: https://elpais.com/internacional/2017/12/15/billete_a_macondo/1513354118_012154.html

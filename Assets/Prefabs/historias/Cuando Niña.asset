@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e79ac9f26b19af5489eba7f97d6f2dc8, type: 3}
+  m_Name: "Cuando Nin\u0303a"
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: 9d3ea2140daae6440878b44e1de0515b, type: 3}
+  transcription: "Cuando ni\xF1a tem\xEDa cerrar los ojos, pensaba que vendr\xEDan
+    los esp\xEDritus amenazantes que mi madre convocaba cuando no obedec\xEDa. Ahora
+    temo con los ojos abiertos, se mueven ansiosos cuando estoy sola. He entendido
+    que el peligro de encontrar un abusador esta incluso en mi m\xE1s cercana compa\xF1\xEDa."
+  url: https://www.vice.com/es_co/article/paak38/silencio-vice-acoso-sexual-universidades-colombia-existe-investigacion-connectas

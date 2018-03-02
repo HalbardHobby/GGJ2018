@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e79ac9f26b19af5489eba7f97d6f2dc8, type: 3}
+  m_Name: Terraza
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: 226825fb14a9795418af140ec976b55c, type: 3}
+  transcription: "Volvimos a la terraza, le gustaba contemplar la vista desde all\xED.-
+    Abuela, \xBFC\xF3mo era antes ac\xE1?. Alz\xF3 sus brazos y se\xF1alo al horizonte
+    \u2013Todo esto era potrero, se pod\xEDa pescar en el rio y a veces por el cielo,
+    se ve\xEDa ese pajarito de plumas de colores que ya no se volvi\xF3 a ver."
+  url: http://www.noticiasrcn.com/nacional-pais/alarmantes-efectos-del-cambio-climatico-colombia
